@@ -1,4 +1,4 @@
-# MODERN LOGIN UI FLUTTER FIREBASE
+# MODERN LOGIN FLUTTER UI + FIREBASE
 
 A new  modern Flutter project  with:
 -Email sign-up
